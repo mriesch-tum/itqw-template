@@ -40,8 +40,6 @@
 \renewenvironment{thebibliography}[1]{%
   \FloatBarrier
   \begin{oldthebibliography}{#1}%
-    \setlength{\parskip}{0ex}%
-    \setlength{\itemsep}{0ex}%
     \normalfont\small
 }{%
   \end{oldthebibliography}%

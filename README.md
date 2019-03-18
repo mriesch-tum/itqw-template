@@ -4,7 +4,7 @@ LaTeX template for the ITQW conference.
 Installation
 --------------------
 
-Copy the file epsconf.cls into the working directory where your *.tex file
+Copy the file itqwconf.cls into the working directory where your *.tex file
 resides. For system-wide installation please consult the documentation of your
 LaTeX distribution.
 
